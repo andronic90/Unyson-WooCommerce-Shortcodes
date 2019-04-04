@@ -3,7 +3,7 @@
 Plugin Name: Unyson WooCommerce Shortcodes
 Plugin URI:  https://flytemplates.com/unyson-woocommerce-shortcodes
 Description: WooComerce Shortcodes for Unyson Page Builder
-Version:     1.0.2
+Version:     1.0.3
 Author:      FlyTemplates
 Author URI:  https://flytemplates.com/
 Tags: unyson, shortcodes, woocommerce, add to cart shortcode, products shortcode
